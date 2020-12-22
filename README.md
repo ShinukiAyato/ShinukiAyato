@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Discord Server | XNova" width="22px" src="https://cdn.discordapp.com/attachments/756129086849417298/790849901327024158/darkdiscordlogo.png" />][website]
+[<img align="left" alt="Discord Server | XNova" width="22px" src="https://media.discordapp.net/attachments/756129086849417298/790869748715880458/discordlogo.png" />][website]
 
 <br />
 
