@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-![https://discord.gg/DjWV2AM6Tj](https://discordapp.com/api/guilds/752325278893604996/widget.png?style=banner4)
+[![Discord Server](https://discordapp.com/api/guilds/752325278893604996/widget.png?style=banner4)](https://discord.gg/DjWV2AM6Tj)
 
 <br />
 
