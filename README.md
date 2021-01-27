@@ -11,8 +11,8 @@
 
 ### Connect with me:
 
-<iframe src="https://discord.com/widget?id=752325278893604996&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
+<img align="left" src="https://discord.com/widget?id=752325278893604996&theme=dark" />
 <br />
 
 ### My current project/s:
