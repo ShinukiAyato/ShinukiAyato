@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Discord Server | XNova" width="22px" src="https://media.discordapp.net/attachments/756129086849417298/790869748715880458/discordlogo.png" />][website]
+<iframe src="https://discord.com/widget?id=752325278893604996&amp;theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 <br />
 
