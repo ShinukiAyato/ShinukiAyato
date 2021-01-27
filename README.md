@@ -11,8 +11,8 @@
 
 ### Connect with me:
 
+![https://discord.gg/DjWV2AM6Tj](https://discordapp.com/api/guilds/752325278893604996/widget.png?style=banner4)
 
-<img align="left" src="https://discord.com/widget?id=752325278893604996&theme=dark" />
 <br />
 
 ### My current project/s:
