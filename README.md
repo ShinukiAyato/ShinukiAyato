@@ -11,13 +11,13 @@
 
 ### Connect with me:
 
-[![Discord Server](https://discordapp.com/api/guilds/752325278893604996/widget.png?style=banner4)](https://discord.gg/DjWV2AM6Tj)
+[![Shinuki Ayato](https://discordapp.com/api/guilds/752325278893604996/widget.png?style=banner4)](https://discord.gg/DjWV2AM6Tj)
 
 <br />
 
 ### My current project/s:
 
-[![Discord Bots](https://top.gg/api/widget/705928336198860860.svg)](https://top.gg/bot/705928336198860860)
+None
 
 <br />
 
