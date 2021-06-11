@@ -32,4 +32,7 @@ None
 
 <summary>ད🔥 GitHub Stats 🔥ཌ</summary>
 
-<img align="left" alt="ShinukiAyato's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ShinukiAyato&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
+<img align="left" alt="ShinukiAyato's GitHub Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ShinukiAyato&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
+
+<img align="left" alt="ShinukiAyato's GitHub Stats" src="github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=ShinukiAyato&layout=compact&theme=material-tokyonight" />
+
