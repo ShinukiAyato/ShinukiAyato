@@ -8,11 +8,6 @@
 - 🎶 I like to create and remix music.
 - 🔰 I'm just a begginer on coding.
 
-
-### Connect with me:
-
-[//]: <> ([![Shinuki Ayato](https://discordapp.com/api/guilds/752325278893604996/widget.png?style=banner4)](https://discord.gg/DjWV2AM6Tj))
-
 <br />
 
 ### My current project/s:
