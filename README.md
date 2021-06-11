@@ -33,6 +33,3 @@ None
 <summary>ད🔥 GitHub Stats 🔥ཌ</summary>
 
 <img align="left" alt="ShinukiAyato's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ShinukiAyato&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
-
-
-[website]: https://discord.gg/VWn2VZ9
