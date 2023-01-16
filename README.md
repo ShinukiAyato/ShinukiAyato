@@ -1,6 +1,6 @@
 <h1 align="center">Yow Wassup Shinuki Ayato Here!</h1>
 <h3 align="center">A Vtuber and a Developer as a hobby</h3>
-<img align="right" alt="Shinuki" width="1200" height="480" src="https://i.imgur.com/H6oxIxe.png">
+<img align="right" alt="Shinuki" width="1000" height="300" src="https://i.imgur.com/H6oxIxe.png">
 
 <p align="left"> <a href="https://twitter.com/shinukiayatovt" target="blank"><img src="https://img.shields.io/twitter/follow/shinukiayatovt?logo=twitter&style=for-the-badge" alt="shinukiayatovt" /></a> </p>
 
