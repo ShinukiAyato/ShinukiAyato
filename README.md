@@ -1,4 +1,4 @@
-<h1 align="center">Yow Wassup Shinuki Ayato Here!</h1>
+<h1 align="center">Shinuki Ayato at your Service!</h1>
 <h3 align="center">A Vtuber and a Developer as a hobby</h3>
 <img align="right" alt="Shinuki" width="1000" height="300" src="https://i.imgur.com/H6oxIxe.png">
 
